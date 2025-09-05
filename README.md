@@ -1,0 +1,6 @@
+- ASP.NET Core’un temel bileşenleri (örneğin: Razor Pages, MVC, Middleware)
+- Kimlik doğrulama ve yetkilendirme işlemleri
+- Katmanlı yapı ve repository pattern
+- Entity Framework Core ile veri işlemleri
+- CRUD operasyonları, form doğrulama, kullanım senaryoları
+- Güncel .NET sürümü ve styling kütüphaneleri gibi ek teknolojiler
