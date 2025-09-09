@@ -7,14 +7,14 @@ namespace Asp.net.Controllers;
 public class HomeController : Controller
 {
  
-    public IActionResult Index()
+    public string Index()
     {
-        return View();
+        return "home/index";
     }
 
     public string Contact()
     {
-        return "Home/Contact";
+      return "home/contact";   
     }
     
 }

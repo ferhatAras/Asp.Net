@@ -15,6 +15,7 @@ C:\Users\Developer\OneDrive\Masaüstü\Asp.net\obj\Debug\net9.0\Asp.net.csproj.C
 C:\Users\Developer\OneDrive\Masaüstü\Asp.net\obj\Debug\net9.0\Asp.net.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Developer\OneDrive\Masaüstü\Asp.net\obj\Debug\net9.0\Asp.net.RazorAssemblyInfo.cache
 C:\Users\Developer\OneDrive\Masaüstü\Asp.net\obj\Debug\net9.0\Asp.net.RazorAssemblyInfo.cs
+C:\Users\Developer\OneDrive\Masaüstü\Asp.net\obj\Debug\net9.0\Asp.net.sourcelink.json
 C:\Users\Developer\OneDrive\Masaüstü\Asp.net\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\Developer\OneDrive\Masaüstü\Asp.net\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\Developer\OneDrive\Masaüstü\Asp.net\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
